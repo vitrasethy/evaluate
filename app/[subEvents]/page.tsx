@@ -28,9 +28,6 @@ export default function Page({ params }: { params: { subEvents: string } }) {
               <th scope="col" className="px-6 py-3">
                 <span className="sr-only">Edit</span>
               </th>
-              <th scope="col" className="px-6 py-3">
-                <span className="sr-only">Edit</span>
-              </th>
             </tr>
           </thead>
           <tbody>
@@ -51,14 +48,6 @@ export default function Page({ params }: { params: { subEvents: string } }) {
                   Edit
                 </a>
               </td>
-              <td className="px-6 py-4 text-right">
-                <a
-                  href="#"
-                  className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                >
-                  Ranking
-                </a>
-              </td>
             </tr>
             <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
               <th
@@ -75,14 +64,6 @@ export default function Page({ params }: { params: { subEvents: string } }) {
                   className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                 >
                   Edit
-                </a>
-              </td>
-              <td className="px-6 py-4 text-right">
-                <a
-                  href="#"
-                  className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                >
-                  Ranking
                 </a>
               </td>
             </tr>
@@ -103,14 +84,6 @@ export default function Page({ params }: { params: { subEvents: string } }) {
                   Edit
                 </a>
               </td>
-              <td className="px-6 py-4 text-right">
-                <a
-                  href="#"
-                  className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                >
-                  Ranking
-                </a>
-              </td>
             </tr>
             <tr className="bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
               <th
@@ -127,14 +100,6 @@ export default function Page({ params }: { params: { subEvents: string } }) {
                   className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                 >
                   Edit
-                </a>
-              </td>
-              <td className="px-6 py-4 text-right">
-                <a
-                  href="#"
-                  className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                >
-                  Ranking
                 </a>
               </td>
             </tr>
