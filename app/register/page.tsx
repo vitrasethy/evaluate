@@ -40,7 +40,7 @@ export default function Home() {
             />
           </div>
         </div>
-        <div className="w-full xl:w-1/3 2xl:w-3/12 md:w-3/12 md:h-[700px] min-xl:mr-[10%] min-[300px]:w-96 min-[300px]:h-[560px] max-[640px]:mx-[5%] max-[640px]:mb-12 bg-[#fff] drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)] pt-6 pb-14 px-10 rounded-2xl">
+        <div className="w-full xl:w-1/3 2xl:w-3/12 md:w-3/12 md:h-[700px] min-xl:mr-[10%] min-[300px]:w-96 min-[300px]:h-[560px] max-[640px]:mx-[5%] max-[640px]:mb-20 bg-[#fff] drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)] pt-6 pb-14 px-10 rounded-2xl">
           <h1 className="text-black text-center min-[300px]:text-2xl md:text-4xl md:mt-2  font-bold mb-1 md:6">
             Register
           </h1>
