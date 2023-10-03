@@ -40,13 +40,8 @@ export default function Home() {
             />
           </div>
         </div>
-<<<<<<< HEAD
         <div className="w-full xl:w-1/3 2xl:w-3/12 md:w-8/12 md:h-[600px] min-xl:mr-[10%] min-[300px]:w-96 min-[300px]:h-[480px] max-[640px]:mx-[5%] max-[640px]:mb-16 bg-[#fff] drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)] pt-6 pb-14 px-10 rounded-2xl">
           <h1 className="text-center text-black min-[300px]:text-2xl md:text-4xl md:mt-2  font-medium mb-1 md:6">
-=======
-        <div className=" max-sm:justify-self-center w-full xl:w-1/3 2xl:w-3/12 md:w-8/12 md:h-[600px] min-xl:mr-[10%] max-sm:mx-[5%] max-sm:mb-48 bg-[#fff] drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)] pt-6 pb-14 px-10 rounded-2xl">
-          <h1 className="text-black font-bold text-center min-[300px]:text-2xl md:text-4xl md:mt-2 mb-1 md:6">
->>>>>>> refs/remotes/origin/main
             Login
           </h1>
           <Form />
